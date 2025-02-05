@@ -18,5 +18,5 @@ public class App {
         System.out.println("La división es "+division);
         resto=num1%num2;
         System.out.println("El resto es "+resto);//cambio
-            }
+            }//otro comentario
 }
